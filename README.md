@@ -11,5 +11,5 @@ DAIR-V2X数据集是第一个用于车路协同自动驾驶研究的大规模、
 -数据涵盖了丰富的场景，例如晴天/雨天/雾天，白天/夜晚，城市道路/高速公路；   
 -数据完整，包括脱敏原始图像和点云数据，注释数据，时间戳，校准文件等。   
 我们根据5:2:3将数据集分为训练集、验证集和测试集。本次发布训练集和验证集，测试集和后续挑战活动一起发布  
-本代码用于将dair-v2x路测图像部分的json文件转换为yolo格式，并使用yolov5进行训练
-代码来源于[飞浆](https://aistudio.baidu.com/datasetdetail/179509)，下载[infrastructure.zip](https://aistudio.baidu.com/datasetdetail/179509)和[infrastructure-infrastructure-side-image.zip](https://aistudio.baidu.com/datasetdetail/179509)
+本代码用于将dair-v2x路测图像部分的json文件转换为yolo格式，并使用yolov5进行训练  
+数据来源于[飞浆](https://aistudio.baidu.com/datasetdetail/179509)，下载[infrastructure.zip](https://aistudio.baidu.com/datasetdetail/179509)和[infrastructure-infrastructure-side-image.zip](https://aistudio.baidu.com/datasetdetail/179509)
