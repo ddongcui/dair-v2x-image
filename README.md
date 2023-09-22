@@ -24,4 +24,9 @@ python get_classes.py
 # 标注文件在\infrastructure\cooperative-vehicle-infrastructure\infrastructure-side\label下面
 python check_box.py
 ```
-
+## 2.4 生成yolo文件
+```
+python get_yolo.py
+```
+**特殊说明**
+-这里一共找到9个类别，雪糕筒对自己项目用处不大，因此在数据集中去除了，需要的可以自行修改
