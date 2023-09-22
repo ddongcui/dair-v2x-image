@@ -10,5 +10,7 @@ DAIR-V2X数据集是第一个用于车路协同自动驾驶研究的大规模、
 
 # 使用方法
 # 1.检查图像大小
-'python check_hw.py'
+```
+python check_hw.py
+```
 检查图像大小，便于后期生成yolo格式时统一高宽
